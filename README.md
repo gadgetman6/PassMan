@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Passman
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A decentralized password manager that encrypts and stores user passwords. Authentication is done through Metamask and app is built on Moralis.io. 
 
 ## 
 
